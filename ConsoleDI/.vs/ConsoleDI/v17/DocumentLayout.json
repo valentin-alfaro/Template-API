@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\valen\\OneDrive\\Datos adjuntos\\Documentos\\GitHub\\Template-API\\ConsoleDI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{774A67F5-D464-44BC-8662-E5067484EE18}|ConsoleDI.csproj|c:\\users\\valen\\onedrive\\datos adjuntos\\documentos\\github\\template-api\\consoledi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{774A67F5-D464-44BC-8662-E5067484EE18}|ConsoleDI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774A67F5-D464-44BC-8662-E5067484EE18}|ConsoleDI.csproj|c:\\users\\valen\\onedrive\\datos adjuntos\\documentos\\github\\template-api\\consoledi\\saludoservieesp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{774A67F5-D464-44BC-8662-E5067484EE18}|ConsoleDI.csproj|solutionrelative:saludoservieesp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{774A67F5-D464-44BC-8662-E5067484EE18}|ConsoleDI.csproj|c:\\users\\valen\\onedrive\\datos adjuntos\\documentos\\github\\template-api\\consoledi\\isaludoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{774A67F5-D464-44BC-8662-E5067484EE18}|ConsoleDI.csproj|solutionrelative:isaludoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SaludoServieESP.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Datos adjuntos\\Documentos\\GitHub\\Template-API\\ConsoleDI\\SaludoServieESP.cs",
+              "RelativeDocumentMoniker": "SaludoServieESP.cs",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Datos adjuntos\\Documentos\\GitHub\\Template-API\\ConsoleDI\\SaludoServieESP.cs",
+              "RelativeToolTip": "SaludoServieESP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T01:16:00.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISaludoService.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Datos adjuntos\\Documentos\\GitHub\\Template-API\\ConsoleDI\\ISaludoService.cs",
+              "RelativeDocumentMoniker": "ISaludoService.cs",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Datos adjuntos\\Documentos\\GitHub\\Template-API\\ConsoleDI\\ISaludoService.cs",
+              "RelativeToolTip": "ISaludoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T01:10:28.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\OneDrive\\Datos adjuntos\\Documentos\\GitHub\\Template-API\\ConsoleDI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\valen\\OneDrive\\Datos adjuntos\\Documentos\\GitHub\\Template-API\\ConsoleDI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T00:54:52.769Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
